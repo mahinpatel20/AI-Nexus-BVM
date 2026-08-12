@@ -2,7 +2,7 @@
 
 Official website for **AI Nexus BVM** — a student-run Artificial Intelligence & Machine Learning club.
 
-🔗 **Live site:** _add your GitHub Pages link here once deployed_
+🔗 **Live site:** https://ainexusbvm.vercel.app
 📧 **Contact:** ainexusbvm@gmail.com
 
 ---
